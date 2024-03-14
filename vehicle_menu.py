@@ -1,10 +1,3 @@
-"""
-Autor: Luis Pérez Cantarero
-
-Date: 28/02/2024
-
-Menu
-"""
 from POO.Tanda2.ej8_menu import Menu
 from bike import Bike
 from car import Car

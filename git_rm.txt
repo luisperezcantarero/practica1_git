@@ -1,0 +1,1 @@
+Que se elimina pero por git se puede seguir accediendo al historial del commit
